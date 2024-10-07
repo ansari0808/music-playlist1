@@ -2,6 +2,8 @@
 The Music Playlist Application is a user-friendly program built using Python's Tkinter library, designed for managing and playing a personal music playlist. This application allows users to add, delete, and navigate through songs seamlessly while offering a simple graphical interface.
 
 Features
+
+
 Add Music: Users can easily add songs to their playlist by entering the music name in a dedicated entry field.
 
 Delete Music: The application allows users to remove songs from the playlist. If the playlist is empty, it prompts an error message.
